@@ -119,7 +119,7 @@ A multi-page portfolio website built to showcase skills, education, internships,
 
 ## GitHub Repository
 
-`https://github.com/yourusername/Syntecxhub_Jagruti_Portfolio_Website`
+https://github.com/Jaguu-tech/Syntecxhub_Portfolio_Website.git
 
 
 ## Contact
