@@ -38,7 +38,7 @@ The website follows modern design principles with a clean dark theme, responsive
 
 
 ## Project Structure
-
+```text
 Syntecxhub_Jagruti_Portfolio_Website
 │
 ├── index.html
@@ -50,7 +50,7 @@ Syntecxhub_Jagruti_Portfolio_Website
 │
 └── Images
     └── photo.png
-
+```
 
 ## Education
 
